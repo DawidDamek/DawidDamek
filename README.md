@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @DawidDamek
-- 🌱 I’m currently learning JavaScript
-- 👀 I’m interested in games, guitar and moutain biking
-- 📫 How to reach me:
--  dawid.damek98@gmail.com
--  linkedin.com/in/dawid-damek
